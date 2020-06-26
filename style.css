@@ -21,5 +21,35 @@ body {
     grid-gap: 10px;
 }
 
+.youtube {
+    display: inline-block;
+    
+}
+
+
+.twitter {
+  
+    display: inline-block;
+}
+
+.instagram {
+
+    display: inline-block;
+}
+
+.twitch {
+
+    display: inline-block;
+}
+
+.discord {
+
+    display: inline-block;
+}
+
+.email {
+
+    display: inline-block;
+}
 
 
