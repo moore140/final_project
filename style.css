@@ -23,40 +23,33 @@ body {
 }
 
 .youtube {
-    grid-column: 2/4;
-    grid-row: 1;
     display: inline-block;
     
 }
 
 
 .twitter {
-    grid-column: 1;
-    grid-row: 1/3;
+  
     display: inline-block;
 }
 
 .instagram {
-    grid-column: 3;
-    grid-row: 2;
+
     display: inline-block;
 }
 
 .twitch {
-    grid-column: 2;
-    grid-row: 3;
+
     display: inline-block;
 }
 
 .discord {
-    grid-column: 1;
-    grid-row: 2/3;
+
     display: inline-block;
 }
 
 .email {
-    grid-column: 3;
-    grid-row: 3;
+
     display: inline-block;
 }
 
