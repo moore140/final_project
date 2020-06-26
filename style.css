@@ -16,7 +16,7 @@ body {
 
 .wrapper {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 2 fr 2 fr 2 fr;
     grid-template-rows: 100px 100px;
     grid-gap: 10px;
 }
@@ -42,20 +42,20 @@ body {
 }
 
 .twitch {
-    grid-column: 2/4;
-    grid-row: 1;
+    grid-column: 3;
+    grid-row: 2;
     display: inline-block;
 }
 
 .discord {
-    grid-column: 2/4;
-    grid-row: 1;
+    grid-column: 4;
+    grid-row: 3;
     display: inline-block;
 }
 
 .email {
-    grid-column: 2/4;
-    grid-row: 1;
+    grid-column: 3;
+    grid-row: 4;
     display: inline-block;
 }
 
