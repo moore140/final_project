@@ -6,11 +6,48 @@ body {
 
 }
 
-h1{
+.logo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: whitesmoke;
     padding: 30px;
     margin-left: 25px;
     color: #222222;
+}
+
+.youtube {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px; 
+}
+
+
+.twitter {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px; 
+}
+
+.instagram {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px; 
+}
+
+.twitch {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px; 
+}
+
+.discord {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px; 
+}
+
+.email {
+    width: 30px;
+    display: inline-block;
+    padding: 20px 10px; 
 }
 
