@@ -9,14 +9,15 @@ body {
 .logo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: whitesmoke;
-    padding: 30px;
-    margin-left: 25px;
+    grid-column: 1;
+    grid-row: 1;
+
     color: #222222;
 }
 
 .wrapper {
     display: grid;
-    grid-template-columns: 2 fr 2 fr 2 fr;
+    grid-template-columns: 1 fr 1 fr 1 fr;
     grid-template-rows: 100px 100px;
     grid-gap: 10px;
 }
@@ -36,26 +37,26 @@ body {
 }
 
 .instagram {
-    grid-column: 2;
-    grid-row: 3;
-    display: inline-block;
-}
-
-.twitch {
     grid-column: 3;
     grid-row: 2;
     display: inline-block;
 }
 
-.discord {
-    grid-column: 4;
+.twitch {
+    grid-column: 2;
     grid-row: 3;
+    display: inline-block;
+}
+
+.discord {
+    grid-column: 1;
+    grid-row: 2/3;
     display: inline-block;
 }
 
 .email {
     grid-column: 3;
-    grid-row: 4;
+    grid-row: 3;
     display: inline-block;
 }
 
