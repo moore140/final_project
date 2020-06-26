@@ -25,7 +25,7 @@ h1{
 }
 
 img {
-    width: 100%;
+    width: 50%;
 }
 
 .wrapper {
@@ -42,27 +42,27 @@ img {
 
 .twitter {
   
-    display: inline-block;
+    display: flex;
 }
 
 .instagram {
 
-    display: inline-block;
+    display: flex;
 }
 
 .twitch {
 
-    display: inline-block;
+    display: flex;
 }
 
 .discord {
 
-    display: inline-block;
+    display: flex;
 }
 
 .email {
 
-    display: inline-block;
+    display: flex;
 }
 
 
