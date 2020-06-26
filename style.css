@@ -9,47 +9,17 @@ body {
 .logo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: whitesmoke;
-    grid-column: 1;
-    grid-row: 1;
-
+    padding: 30px;
+    margin-left: 25px;
     color: #222222;
 }
 
 .wrapper {
     display: grid;
-    grid-template-columns: 1 fr 1 fr 1 fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px 100px;
     grid-gap: 10px;
 }
 
-.youtube {
-    display: inline-block;
-    
-}
 
-
-.twitter {
-  
-    display: inline-block;
-}
-
-.instagram {
-
-    display: inline-block;
-}
-
-.twitch {
-
-    display: inline-block;
-}
-
-.discord {
-
-    display: inline-block;
-}
-
-.email {
-
-    display: inline-block;
-}
 
