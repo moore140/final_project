@@ -1,0 +1,16 @@
+body {
+    background-color: darkgray;
+    padding: 30px;
+    margin-left: 25px; 
+    font-family: Helvetica;
+
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: whitesmoke;
+    padding: 30px;
+    margin-left: 25px;
+    color: #222222;
+}
+
