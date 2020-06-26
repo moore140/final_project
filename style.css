@@ -14,6 +14,11 @@ body {
     color: whitesmoke;
 }
 
+h1{
+    font-size: 3em;
+    padding-bottom: 3px;
+    border-bottom: 5px solid black;
+}
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -23,7 +28,6 @@ body {
 
 .youtube {
     display: inline-block;
-    
 }
 
 
