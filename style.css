@@ -8,10 +8,10 @@ body {
 
 .logo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: whitesmoke;
+    background-color: #222222;
     padding: 30px;
     margin-left: 25px;
-    color: #222222;
+    color: whitesmoke;
 }
 
 .wrapper {
