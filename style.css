@@ -24,6 +24,10 @@ h1{
     font-size: 1.5em;
 }
 
+img {
+    width: 100%;
+}
+
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
